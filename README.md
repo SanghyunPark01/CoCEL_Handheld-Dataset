@@ -50,7 +50,7 @@ Camera and LiDAR extrinsic parameters were obtained using [livox_camera_calibrat
 If you use our datasets, please citation our dataset.  
 ```
 @misc{park2025dataset,
-  title={CoCEL Hanheld Dataset},
+  title={CoCEL Handheld Dataset},
   author={Park, Sanghyun},
   howpublished={\url{https://github.com/SanghyunPark01/CoCEL_Handheld-Dataset}},
   year={2025}
