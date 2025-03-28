@@ -1,5 +1,8 @@
 # CoCEL Handheld Dataset
-Real-World dataset at POSTECH. 
+Real-World dataset at POSTECH.  
+
+## :loudspeaker: Notice
+The dataset is continuously being updated.
 
 ## :arrow_down: Download
 [Download Link](https://postechackr-my.sharepoint.com/:f:/g/personal/pash0302_postech_ac_kr/EowTrW_V_AdKvKDCpwzVKfIBcj1E7I1HYkN0OqzuoTGMEw?e=8PUNqo)  
@@ -27,6 +30,9 @@ File names are formatted like this: `acquisition_date`\_`location`\_`sequence`\_
 - `sequence` : Indicates the sequence type.
 - `sensor` : Livox AVIA or MID-360. Camera and IMU are same setting.  
 - `sync_info` : Presence of sensor(LiDAR & Camera) synchronization.  
+
+### :mag: Sequence Preview
+On going...  
 
 ## :wrench: Calibration
 Calibration data is available in the [download link](https://postechackr-my.sharepoint.com/:f:/g/personal/pash0302_postech_ac_kr/EowTrW_V_AdKvKDCpwzVKfIBcj1E7I1HYkN0OqzuoTGMEw?e=8PUNqo).  
